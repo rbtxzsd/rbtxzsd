@@ -1,7 +1,7 @@
 <h1 align="center">Hello!! I'm Roberta Santos</h1>
 <h3 align="center">A Computer Science student, diving into tech world 🌐</h3>
 
-- 🔭 I’m currently working as **a QA, aiming to become a fullstack developer**
+- 🔭 I’m currently working as **a QA, aiming to become a backend developer**
 
 - 🌱 I’m currently learning **.NET and React**
 
