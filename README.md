@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a Back-end apprentice.
 
-- 🌱 I’m currently learning **.NET and React**
+- 🌱 I’m currently learning **.NET **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
